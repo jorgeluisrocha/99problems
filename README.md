@@ -10,3 +10,10 @@ solutions in other languages: Haskell, Python, Javascript (?).
 ## Approach
 
 Each solution will be in its own individual file. 
+
+An `*` denotes the level of difficult of the problem, where:
+
+ - (*) : Easy
+ - (* *) : Medium
+ - (* * *) : Hard
+
